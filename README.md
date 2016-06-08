@@ -1,6 +1,4 @@
 # DMM
-Game chip code
--------------------
 Inma Kurin Devil Carnival
 -------------------
 A command line simple downloader

@@ -1,7 +1,12 @@
-# DMM
-Inma Kurin Devil Carnival
--------------------
-A command line simple downloader
+# ImageDownloader
+## Current Release
+Version 1.0.0 (2016/9/23)
+## Overview
+A command line simple downloader (GUI future)
+## Requirements
+- python 2.x
+- python Image Library
+## Feature 
 
-I choose python to traverse(download) all game image with PIL and image2gif
-(GIF89, RGB) have a problem that some colors fades out, waiting to be resolved
+## Changelog
+
